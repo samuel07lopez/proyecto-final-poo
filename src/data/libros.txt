@@ -1,0 +1,4 @@
+0001;Odisea;Homero
+0002;Alicia en el pais de las maravillas;Lewis carrol
+0003;Las Aventuras de Sherlock Holmes;Arthur Conan Doyle
+0004;100 años de soledad;Gabriel Garcia Marquez

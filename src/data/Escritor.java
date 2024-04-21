@@ -9,6 +9,6 @@ import java.util.ArrayList;
  */
 public interface Escritor {
     
-    public abstract void escribir(ArrayList<String> rutaArchivo) throws IOException ;
+    public abstract void escribir(ArrayList<String> rutaArchivo) throws IOException;
     
 }
